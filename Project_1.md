@@ -32,67 +32,69 @@ Once logged in as an admin, you gain access to the following features:
 
 ## Accueil
 
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/bb743747-d39c-43ec-ad78-7334709b39c5">
+![home](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/f31ef156-4b3b-49fb-a704-daaaea837c93)
 
 ## Men's Section
 
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/d6902541-23c9-442a-aaea-3fc7f0c03d6d">
+![BKstore-Man-Section](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/7f8c55d3-aed0-4dff-9543-7a405b828a1a)
 
 ### The Pants section
 
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/56a6ccf4-f974-4886-a3ea-27b33daf7bb4">
+![BKstore-Pontalons](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/16264287-5a86-4857-80ec-5ad138f76233)
 
 ### The Accessory section
 
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/186e3eae-1be4-4d4a-b7e0-1f443f701b3d">
+![BKstore-Accessoires](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/cf910d6f-b8bf-4054-89e4-b357d282fff7)
 
 ### Jacket's section
 
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/c1c7622e-f5af-44e2-96d2-489f16236a99">
+![BKstore-Vestes](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/7c726eb5-75b8-444e-87f3-defa6288d723)
 
 ### Shoe section
 
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/c3acde5c-f7da-4b6a-9b30-3fffe67d4f8a">
+![BKstoreSection](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/e991e1fa-3ed6-4721-92c0-c8047d3abe3c)
 
 ## Women's Section
 
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/b362a725-ece7-4bb6-bb83-2e024dd706bf">
+![BKstore-Women-Section](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/a1b14fcb-0285-47f6-ae30-e87d39e464a7)
 
 ### The Pants section
 
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/ee91825f-6956-4911-b941-4d2c866b133f">
+![BKstore-Pontalons](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/2fc729bf-c2b1-432d-b986-9aca1d65c18c)
 
 ### The Accessory section
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/d22c40d4-bb53-4e76-b18e-684ebadec24f">
+
+![BKstore-Accessoires](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/9e5003dd-38fc-4b6a-90bf-555cef02cefe)
 
 ### Jacket's section
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/b8267053-891e-469b-b08c-eaa10a0cf101">
+
+![BKstore-Robes](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/0b5bbd22-1bfa-4fe9-ba7b-7bda72d43925)
 
 ### Shoe section
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/4095e02c-5ed6-4db6-b23a-190d9f55b994">
+
+![BKstore-Chessures](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/238de18e-f9a3-4f44-91de-5f2ec8c7adb7)
 
 ## About us
 
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/3594efca-6a9b-49dc-b89d-755e6b218f87">
+![about](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/40a96600-8c32-4104-bc20-bc761ae92956)
 
 ## Admin Dashboard
 
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/f3dd2332-c482-4806-81c9-0bfcd443bbbe">
+![admin](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/bb54cce9-7d52-44d8-b8b5-4fe5d9389a43)
 
 ### Log in
 
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/32115a2c-892f-4da2-bf7b-8c9da78384ec">
+![login](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/fdb873fc-8bf3-47be-8f50-18112b3e432d)
 
 ### Register
 
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/c71fbf62-4454-4599-810e-105b19510d6b">
+![register](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/ab50c590-b1b3-4c08-b2cc-5c96897edcc3)
 
 ### Admin Profile
 
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/abdd797e-be0c-4ac5-8d40-5e895f2dc7f2">
+![profile](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/a559e25b-aae1-4a29-aa4f-453429afd35e)
 
 # Website are totaly responsive
 
-<img src="https://github.com/BoukhaAyo/E-commerce_website/assets/103447604/cccc5c04-f5ba-4429-b7c5-47e49708e3ca">
-
+![responsive](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/6d113032-4a7b-4090-8f9e-667e086fe7af)
 
