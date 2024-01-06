@@ -37,6 +37,7 @@ Welcome to the School System Management repository! This project is a comprehens
   - Individual dashboards with role-specific options.
 
 ### Acceil
+![add](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/bdc8f68e-5fc3-4b46-8177-b5f2915a1751)
 
 <img src="https://github.com/BoukhaAyo/school_management_system/assets/103447604/971fb0d5-ac86-4324-a905-13684a0bd48b">
 
