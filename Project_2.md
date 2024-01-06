@@ -37,21 +37,20 @@ Welcome to the School System Management repository! This project is a comprehens
   - Individual dashboards with role-specific options.
 
 ### Acceil
-![add](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/bdc8f68e-5fc3-4b46-8177-b5f2915a1751)
 
-<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/971fb0d5-ac86-4324-a905-13684a0bd48b">
+![home](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/04fe615c-bec8-448a-a81c-78381056616f)
 
 ## Ou Nous Trouver
 
-<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/4a882179-d65a-4f08-8da3-9b87ccdad113">
+![trouver](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/2ae25ecc-1849-41be-800d-c8f0e446029a)
 
 ## Inscription
 
-<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/d16d285d-fe7f-42c2-a9ae-43988e46537d">
+![inscription](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/c8c65c5f-cc12-4346-8cc4-358d473c3ba9)
 
 ## Log in [user, admin, teacher]
 
-<img src="https://github.com/BoukhaAyo/school_management_system/assets/103447604/782602d6-8ded-4fe6-900b-9d78970fdcb8">
+![login](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/9c1cd2af-113e-4a3e-9fa3-cb0c9f851476)
 
 ## Register [user by default] [teacher accounte create by admin]
 
@@ -59,17 +58,15 @@ Welcome to the School System Management repository! This project is a comprehens
 
 ##- Admin Dashboard [add, editor and delete any user teacter, student or admin ]
 
-<img src="https://github.com/BoukhaAyo/school_management_system/assets/103447604/308df08a-62a2-4e67-9aae-849b3a6de2b3">
-
-<img src="https://github.com/BoukhaAyo/school_management_system/assets/103447604/cc7d583f-94b8-4e7d-a9b8-c7f3f86a8bc2">
+![dashboard](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/98f9d90e-6030-4f01-8006-d54df6fd6515)
 
 ## Add new User [student, admin, teacher]
 
-<img src="https://github.com/BoukhaAyo/school_management_system/assets/103447604/3b181419-d0bb-442c-901c-7da64a48380b">
+![add](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/f3f583ba-2587-47c3-b626-3d76299c7255)
 
 ## Edite User [student, admin, teacher]
 
-<img src="https://github.com/BoukhaAyo/school_management_system/assets/103447604/e92c146e-9532-4ce1-9c75-b5c059a1d3ed">
+![edit](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/b70bc928-d9a7-4d94-89da-839e92f94db5)
 
 ## Profile for all Users
     - User can change photo profile and update username, email.
@@ -78,4 +75,5 @@ Welcome to the School System Management repository! This project is a comprehens
     - If you have been opening you account on other device's and you wanna log out from all device's you can log out any time you one to.
     - Finally you have Delete button to delete your account
     
-<img src="https://github.com/BoukhaAyo/school_management_system/assets/103447604/2b5c2498-ff7b-4033-bc98-cf315c8be68e">
+![profile](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/0eb504aa-da13-480d-abe0-8f3d9c2edefe)
+
