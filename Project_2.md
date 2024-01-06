@@ -52,9 +52,13 @@ Welcome to the School System Management repository! This project is a comprehens
 
 ![login](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/9c1cd2af-113e-4a3e-9fa3-cb0c9f851476)
 
+## Forget Password
+
+![forget_password](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/27ab773e-524e-4589-a86b-0cab8808cc41)
+
 ## Register [user by default] [teacher accounte create by admin]
 
-<img src="https://github.com/BoukhaAyo/school_management_system/assets/103447604/5dcda6c2-6676-4c1c-94c8-e872e577b0d0">
+![register](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/afa45640-7110-4a67-811c-dae0409d9112)
 
 ##- Admin Dashboard [add, editor and delete any user teacter, student or admin ]
 
