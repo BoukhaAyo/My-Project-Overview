@@ -39,15 +39,15 @@ Welcome to the School System Management repository! This project is a comprehens
 ### Acceil
 ![add](https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/bdc8f68e-5fc3-4b46-8177-b5f2915a1751)
 
-<img src="https://github.com/BoukhaAyo/school_management_system/assets/103447604/971fb0d5-ac86-4324-a905-13684a0bd48b">
+<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/971fb0d5-ac86-4324-a905-13684a0bd48b">
 
 ## Ou Nous Trouver
 
-<img src="https://github.com/BoukhaAyo/school_management_system/assets/103447604/4a882179-d65a-4f08-8da3-9b87ccdad113">
+<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/4a882179-d65a-4f08-8da3-9b87ccdad113">
 
 ## Inscription
 
-<img src="https://github.com/BoukhaAyo/school_management_system/assets/103447604/d16d285d-fe7f-42c2-a9ae-43988e46537d">
+<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/d16d285d-fe7f-42c2-a9ae-43988e46537d">
 
 ## Log in [user, admin, teacher]
 
