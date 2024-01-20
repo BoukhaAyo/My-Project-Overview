@@ -30,8 +30,6 @@ Once logged in as an admin, you gain access to the following features:
 
 # E-commerce_website Overview
 
-## Accueil
-
 <img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/f31ef156-4b3b-49fb-a704-daaaea837c93" width="30%" height="420px"/>
 <img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/7f8c55d3-aed0-4dff-9543-7a405b828a1a" width="30%" height="420px"/>
 <img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/16264287-5a86-4857-80ec-5ad138f76233" width="20%" height="420px"/>
