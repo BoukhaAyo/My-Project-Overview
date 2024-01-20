@@ -38,10 +38,11 @@ Once logged in as an admin, you gain access to the following features:
 <img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/0b5bbd22-1bfa-4fe9-ba7b-7bda72d43925" width="20%" height="420px"/>
 <img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/238de18e-f9a3-4f44-91de-5f2ec8c7adb7" width="20%" height="420px"/>
 <img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/40a96600-8c32-4104-bc20-bc761ae92956" width="30%" height="420px"/>
-<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/bb54cce9-7d52-44d8-b8b5-4fe5d9389a43" width="65%" height="380px"/>
 <img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/a559e25b-aae1-4a29-aa4f-453429afd35e" width="30%" height="420px"/>
-<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/ab50c590-b1b3-4c08-b2cc-5c96897edcc3" width="30%" height="200px"/>
+<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/bb54cce9-7d52-44d8-b8b5-4fe5d9389a43" width="90%" height="380px"/>
 <img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/fdb873fc-8bf3-47be-8f50-18112b3e432d" width="30%" height="200px"/>
+<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/27ab773e-524e-4589-a86b-0cab8808cc41" width="30%" height="200px"/>
+<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/ab50c590-b1b3-4c08-b2cc-5c96897edcc3" width="30%" height="200px"/>
 
 # School System Management
 
@@ -89,7 +90,7 @@ Welcome to the School System Management repository! This project is a comprehens
 <img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/9c1cd2af-113e-4a3e-9fa3-cb0c9f851476" width="30%" height="200px"/>
 <img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/27ab773e-524e-4589-a86b-0cab8808cc41" width="30%" height="200px"/>
 <img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/afa45640-7110-4a67-811c-dae0409d9112" width="30%" height="200px"/>
-<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/98f9d90e-6030-4f01-8006-d54df6fd6515" width="70%" height="380px"/>
-<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/f3f583ba-2587-47c3-b626-3d76299c7255" width="70%" height="380px"/>
-<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/b70bc928-d9a7-4d94-89da-839e92f94db5" width="70%" height="380px"/>
+<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/98f9d90e-6030-4f01-8006-d54df6fd6515" width="90%" height="380px"/>
+<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/f3f583ba-2587-47c3-b626-3d76299c7255" width="90%" height="380px"/>
+<img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/b70bc928-d9a7-4d94-89da-839e92f94db5" width="90%" height="380px"/>
 <img src="https://github.com/BoukhaAyo/My-Project-Overview/assets/103447604/0eb504aa-da13-480d-abe0-8f3d9c2edefe" width="30%" height="420px"/>
