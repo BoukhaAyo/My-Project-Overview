@@ -1,3 +1,36 @@
+# Inventory Management
+
+This project is a comprehensive web application designed for effective inventory management within a company. Built using the Laravel framework and styled with Bootstrap, this application streamlines the process of tracking and managing stock levels, ensuring that businesses can operate efficiently and make informed decisions.
+
+- **Home Page:** A user-friendly dashboard that provides an overview of current stock levels, recent transactions, and key performance indicators, enabling quick insights                              into inventory status.
+- **Product Management:** Easily add, edit, and delete products from the inventory. Each product entry includes essential details such as name, description, quantity, price, and a unique QR code. Additionally, users can export all products as an Excel file or filter exports based on specific categories, allowing for tailored data management and reporting.
+- **User Authentication:** The application features secure login functionality that ensures only authorized personnel can access sensitive inventory data, utilizing Laravel Jetstream for robust authentication. There are two types of users: Admins and Normal Users. Admins have access to the main dashboard, where they can manage all aspects of the inventory, including adding or removing products, viewing reports, and overseeing user activities. They also have the ability to disable any user account without deleting it. If a user is disabled, they can still access their dashboard but will not be able to place orders. Normal Users have a specific dashboard that allows them to view and update their profile information, such as changing their password and name. They can also place orders for products, but these orders require admin approval. If a user attempts to order an item that is not in stock, the order will not be processed. Once an order is placed, it appears on the admin dashboard for review, where the admin can accept or refuse it. The outcome of the order—whether accepted, refused, or still pending—will be reflected on both the admin and user dashboards, ensuring transparency and effective communication.
+  
+- **QR Code Generation:** Automatically generate a unique QR code for each product, enabling easy access to product details through a mobile QR code scanner app that you have developed.
+
+- **Excel Export:** Utilize the Laravel Excel package to export inventory data into Excel files, facilitating easy data manipulation, reporting, and sharing with stakeholders.
+- etc...
+- **Inventory Management Overview**
+<img src="https://github.com/user-attachments/assets/cfe2c93d-39eb-4930-a5f9-63f9f554b4ee" width="30%" height="180px"/>
+<img src="https://github.com/user-attachments/assets/e69d7e47-20d0-48fa-9279-dff132896bf4" width="30%" height="180px"/>
+<img src="https://github.com/user-attachments/assets/cf71043c-94df-4808-8e83-85070ca3e504" width="30%" height="180px"/>
+
+<img src="https://github.com/user-attachments/assets/66b84197-ecc5-4f98-87b4-e06ea30ee9d3" width="30%" height="180px"/>
+<img src="https://github.com/user-attachments/assets/62330538-ba00-4b22-8926-7664b31e56d6" width="30%" height="180px"/>
+<img src="https://github.com/user-attachments/assets/fae7c6c4-eb48-4933-8152-5726ddb42935" width="30%" height="180px"/>
+
+
+<img src="https://github.com/user-attachments/assets/b65484ae-5362-47ab-9815-65910f41f625" width="30%" height="180px"/>
+<img src="https://github.com/user-attachments/assets/c13ca63a-12b5-4103-9ce9-5892c17ef8d3" width="30%" height="180px"/>
+
+<img src="https://github.com/user-attachments/assets/68eeefab-d304-4b96-b4ce-eaf69199bfe6" width="30%" height="180px"/>
+<img src="https://github.com/user-attachments/assets/95553861-e2cb-425c-8054-9adc45475e16" width="30%" height="180px"/>
+
+<img src="https://github.com/user-attachments/assets/dff8949f-3331-4a29-a3a2-def3d9b6cf05" width="30%" height="180px"/>
+<img src="https://github.com/user-attachments/assets/15edbdf0-a585-4637-9ce2-64be894e62b2" width="30%" height="180px"/>
+<img src="https://github.com/user-attachments/assets/38f8f71f-87e4-4b2b-861c-47be98370cd3" width="30%" height="180px"/>
+<img src="https://github.com/user-attachments/assets/0356b53d-c81c-42eb-b07d-de0938bb038b" width="30%" height="180px"/>
+
 # E-commerce_website
 
 This project is a fully responsive web application designed to function as an online clothing store. The key features of the project include:
